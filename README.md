@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wil258&show=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inforgames1080&show=dracula)
 <!--Tecnologia que mais uso meu dia-->
 <div style="display:inline-block">
   <br/>
