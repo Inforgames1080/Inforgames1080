@@ -1,20 +1,19 @@
 <h1>Meus Hobbies Favoritos</h1>
-    <ul>
-        <li> Ler</li>
-        <li>Programar</li>
-        <li>Jogar videogame</li>
-        <li>Andar de Skate</li>
-        <ul>
-</div>
+<ul>
+    <li>Ler</li>
+    <li>Programar</li>
+    <li>Jogar videogame</li>
+    <li>Andar de Skate</li>
+</ul>
 
 <div>
-<h2>Minhas Lista de tarefas</h2>
-<ol>
-<li> Estudar Programação </li>
-<li>Praticar exercicios de Programação</li>
-<li>ler livros de Programação</li>
- </ol>
- </div>
+    <h2>Minha Lista de Tarefas</h2>
+    <ol>
+        <li>Estudar Programação</li>
+        <li>Praticar exercícios de Programação</li>
+        <li>Ler livros de Programação</li>
+    </ol>
+</div>
 
 <!--plug do vs code-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inforgames1080&show=dracula)
