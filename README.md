@@ -15,6 +15,7 @@
 <li>ler livros de Programação</li>
  </ol>
  </div>
+
 <!--plug do vs code-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inforgames1080&show=dracula)
 
