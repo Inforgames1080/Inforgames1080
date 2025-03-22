@@ -4,6 +4,8 @@
     <li>Programar</li>
     <li>Jogar videogame</li>
     <li>Andar de Skate</li>
+    <li>Jogar Basket</li>
+</ul>
 </ul>
 
 <div>
